@@ -1,0 +1,6 @@
+library sjcl;
+
+class sjcl
+{
+
+}
